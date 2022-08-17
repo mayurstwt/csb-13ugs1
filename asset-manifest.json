@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://mayurstwt.github.io/csb-6hfy0h/static/css/main.29d06b2a.chunk.css",
+    "main.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.9caaf240.chunk.js",
+    "main.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.9caaf240.chunk.js.map",
+    "runtime-main.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/runtime-main.fd503c7f.js",
+    "runtime-main.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/runtime-main.fd503c7f.js.map",
+    "static/js/2.2a6412a0.chunk.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/2.2a6412a0.chunk.js",
+    "static/js/2.2a6412a0.chunk.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/2.2a6412a0.chunk.js.map",
+    "index.html": "https://mayurstwt.github.io/csb-6hfy0h/index.html",
+    "static/css/main.29d06b2a.chunk.css.map": "https://mayurstwt.github.io/csb-6hfy0h/static/css/main.29d06b2a.chunk.css.map",
+    "static/js/2.2a6412a0.chunk.js.LICENSE.txt": "https://mayurstwt.github.io/csb-6hfy0h/static/js/2.2a6412a0.chunk.js.LICENSE.txt",
+    "static/media/logo1.79740dff.png": "https://mayurstwt.github.io/csb-6hfy0h/static/media/logo1.79740dff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd503c7f.js",
+    "static/js/2.2a6412a0.chunk.js",
+    "static/css/main.29d06b2a.chunk.css",
+    "static/js/main.9caaf240.chunk.js"
+  ]
+}
